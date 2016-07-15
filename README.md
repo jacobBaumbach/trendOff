@@ -10,22 +10,25 @@ My project implements a lambda architecture.  A stream of tweets are pumped into
 
 Also I was able to run this data pipeline on both my local machine and an EC2 instance.  The majority of the execution of this code was done on EC2.
 
+## Data_Enginnering_Final_Project.ipynb:
+Please look to this iPython Notebook for a more detailed description of the project and each Scala package
+
 ##scala-kafka-twitter:
 I used the code from a repo produced by [Marcel Krcah](http://marcelkrcah.net) on his Github, which can be found [here.](https://github.com/mkrcah/scala-kafka-twitter)  The code uses Scala to to take a twitter stream, encode the tweets in an Avro schema and then sends them as a Kafka message via a Kafka producer.  Marcel's code only used the username and tweet, but since I wanted to get more meta data I had to alter his code so I could grab this extra data about each tweet.  I also took the liberty of commenting his code, to check my own understanding.  Marcel's code provides an easy and efficient way to send tweets through a Kafka producer. 
 
 ## csv:
-Contains the Scala package that takes Twitter data from a CSV file into a Cassandra table that the batch process will be performed on.  I got the data from the csv [here](http://followthehashtag.com/content/uploads/USA-Geolocated-tweets-free-dataset-Followthehashtag.zip).
+Contains the Scala package, that uses Spark, that takes Twitter data from a CSV file into a Cassandra table that the batch process will be performed on.  I got the data from the csv [here](http://followthehashtag.com/content/uploads/USA-Geolocated-tweets-free-dataset-Followthehashtag.zip).
 
 ##speedk:
-Contains the Scala package that performs the speed layer of my lambda architecture.
+Contains the Scala package, that uses Spark, that performs the speed layer of my lambda architecture.
 
 ##streamk:
-Contains the Scala package that ingests the data from the Kafka stream into a Cassandra table that the batch process will be performed on.
+Contains the Scala package, that uses Spark, that ingests the data from the Kafka stream into a Cassandra table that the batch process will be performed on.
 
 ## batch:
-Contains the Scala package that implements the batch layer of the lambda architecture.
+Contains the Scala package, that uses Spark, that implements the batch layer of the lambda architecture.
 
 ##serving:
-Contains the Scala package that implements the serving layer of my lambda architecture.
+Contains the Scala package, that uses Spark, that implements the serving layer of my lambda architecture.
 
 
