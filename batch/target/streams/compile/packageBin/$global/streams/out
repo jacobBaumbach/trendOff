@@ -1,0 +1,31 @@
+[0m[[0minfo[0m] [0mPackaging /home/ubuntu/projectFile/batch/target/scala-2.10/simpleapp_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	SimpleApp$$typecreator4$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/batch/target/scala-2.10/classes/SimpleApp$$typecreator4$1.class[0m
+[0m[[0mdebug[0m] [0m	individTweet$Mapper$$anon$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/batch/target/scala-2.10/classes/individTweet$Mapper$$anon$1.class[0m
+[0m[[0mdebug[0m] [0m	individTweet$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/batch/target/scala-2.10/classes/individTweet$.class[0m
+[0m[[0mdebug[0m] [0m	individTweet$Mapper$$typecreator1$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/batch/target/scala-2.10/classes/individTweet$Mapper$$typecreator1$1.class[0m
+[0m[[0mdebug[0m] [0m	SimpleApp$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/batch/target/scala-2.10/classes/SimpleApp$.class[0m
+[0m[[0mdebug[0m] [0m	SimpleApp$$typecreator6$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/batch/target/scala-2.10/classes/SimpleApp$$typecreator6$1.class[0m
+[0m[[0mdebug[0m] [0m	SimpleApp$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/batch/target/scala-2.10/classes/SimpleApp$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	SimpleApp$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/batch/target/scala-2.10/classes/SimpleApp$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	SimpleApp.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/batch/target/scala-2.10/classes/SimpleApp.class[0m
+[0m[[0mdebug[0m] [0m	SimpleApp$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/batch/target/scala-2.10/classes/SimpleApp$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	SimpleApp$$typecreator2$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/batch/target/scala-2.10/classes/SimpleApp$$typecreator2$1.class[0m
+[0m[[0mdebug[0m] [0m	individTweet$Mapper$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/batch/target/scala-2.10/classes/individTweet$Mapper$.class[0m
+[0m[[0mdebug[0m] [0m	SimpleApp$$typecreator5$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/batch/target/scala-2.10/classes/SimpleApp$$typecreator5$1.class[0m
+[0m[[0mdebug[0m] [0m	individTweet.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/batch/target/scala-2.10/classes/individTweet.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

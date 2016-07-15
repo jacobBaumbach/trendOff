@@ -1,0 +1,14 @@
+{
+	"namespace": "net.mkrcah.avro",
+	"type": "record",
+	"name": "Tweet",
+	"fields": [
+		{"name": "id", "type": "long"},
+		{"name": "user", "type": "string"},
+		{"name": "text", "type": "string"},
+		{"name": "favorite", "type": "string"},
+		{"name": "isRetweet", "type": "string"},
+		{"name": "retweeted", "type": "string"},
+		{"name": "sensitive", "type": "string"}
+	]
+}

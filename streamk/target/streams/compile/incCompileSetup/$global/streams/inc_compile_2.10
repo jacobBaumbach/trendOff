@@ -1,0 +1,305 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/ubuntu/projectFile/streamk/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+10 items
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> /home/ubuntu/projectFile/streamk/target/scala-2.10/classes/net/jacob/SimpleApp$$anonfun$1.class
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> /home/ubuntu/projectFile/streamk/target/scala-2.10/classes/net/jacob/SimpleApp$$anonfun$2.class
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> /home/ubuntu/projectFile/streamk/target/scala-2.10/classes/net/jacob/SimpleApp$$anonfun$main$1.class
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> /home/ubuntu/projectFile/streamk/target/scala-2.10/classes/net/jacob/SimpleApp$$typecreator1$1.class
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> /home/ubuntu/projectFile/streamk/target/scala-2.10/classes/net/jacob/SimpleApp$$typecreator2$1.class
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> /home/ubuntu/projectFile/streamk/target/scala-2.10/classes/net/jacob/SimpleApp$$typecreator3$1.class
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> /home/ubuntu/projectFile/streamk/target/scala-2.10/classes/net/jacob/SimpleApp$$typecreator4$1.class
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> /home/ubuntu/projectFile/streamk/target/scala-2.10/classes/net/jacob/SimpleApp$$typecreator5$1.class
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> /home/ubuntu/projectFile/streamk/target/scala-2.10/classes/net/jacob/SimpleApp$.class
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> /home/ubuntu/projectFile/streamk/target/scala-2.10/classes/net/jacob/SimpleApp.class
+binary dependencies:
+13 items
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> /home/ubuntu/.ivy2/cache/com.datastax.cassandra/cassandra-driver-core/bundles/cassandra-driver-core-3.0.0.jar
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> /home/ubuntu/.ivy2/cache/com.datastax.spark/spark-cassandra-connector_2.10/jars/spark-cassandra-connector_2.10-1.6.0.jar
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> /home/ubuntu/.ivy2/cache/com.twitter/bijection-avro_2.10/bundles/bijection-avro_2.10-0.9.2.jar
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> /home/ubuntu/.ivy2/cache/com.twitter/bijection-core_2.10/bundles/bijection-core_2.10-0.9.2.jar
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> /home/ubuntu/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> /home/ubuntu/.ivy2/cache/org.apache.kafka/kafka_2.10/jars/kafka_2.10-0.8.2.1.jar
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> /home/ubuntu/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.6.1.jar
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> /home/ubuntu/.ivy2/cache/org.apache.spark/spark-streaming-kafka_2.10/jars/spark-streaming-kafka_2.10-1.6.1.jar
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> /home/ubuntu/.ivy2/cache/org.apache.spark/spark-streaming-twitter_2.10/jars/spark-streaming-twitter_2.10-1.6.1.jar
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> /home/ubuntu/.ivy2/cache/org.apache.spark/spark-streaming_2.10/jars/spark-streaming_2.10-1.6.1.jar
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> /home/ubuntu/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.10.5.jar
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> /home/ubuntu/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> /home/ubuntu/projectFile/streamk/src/main/scala/net/jacob/avro/Tweet.java
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+10 items
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> net.jacob.SimpleApp
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> net.jacob.SimpleApp$
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> net.jacob.SimpleApp$$anonfun$1
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> net.jacob.SimpleApp$$anonfun$2
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> net.jacob.SimpleApp$$anonfun$main$1
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> net.jacob.SimpleApp$$typecreator1$1
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> net.jacob.SimpleApp$$typecreator2$1
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> net.jacob.SimpleApp$$typecreator3$1
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> net.jacob.SimpleApp$$typecreator4$1
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> net.jacob.SimpleApp$$typecreator5$1
+used names:
+163 items
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> $m
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> $m$untyped
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> $typecreator1
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> $typecreator2
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> $typecreator3
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> $typecreator4
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> $typecreator5
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> $u
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> +
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> ->
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> <init>
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> AnyRef
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> Array
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> ArrayBuffer
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> Boolean
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> Byte
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> CassandraConnector
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> ClassTag
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> ColumnMapper
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> ConfigFactory
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> Date
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> DefaultDecoder
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> File
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> GenericAvroCodecs
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> KafkaUtils
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> KryoRegistrator
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> List
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> ListBuffer
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> MEMORY_ONLY
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> Map
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> Mirror
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> Nothing
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> Option
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> Predef
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> RowWriterFactory
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> ScalaRunTime
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> Seconds
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> SimpleApp
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> Singleton
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> SomeColumns
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> SparkConf
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> SparkContext
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> SpecificAvroCodecs
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> StorageLevel
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> StreamingContext
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> String
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> StringDecoder
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> ThisType
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> Tweet
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> TwitterUtils
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> Type
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> TypeCreator
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> TypeRef
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> TypeTag
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> U
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> Unit
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> Universe
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> _2
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> any2ArrowAssoc
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> apache
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> apply
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> args
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> arrayClass
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> asInstanceOf
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> asModule
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> asType
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> augmentString
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> avro
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> awaitTermination
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> bijection
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> cassandraConnector
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> collection
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> com
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> conf
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> config
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> connector
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> cql
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> createKeyspace
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> createStream
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> createTable
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> datastax
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> defaultRowWriterFactory
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> encTweets
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> execute
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> flatMap
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> getClass
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> getClassLoader
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> getFavorite
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> getId
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> getIsRetweet
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> getRetweeted
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> getSensitive
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> getText
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> getUser
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> immutable
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> intervalSecs
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> invert
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> io
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> j
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> jacob
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> java
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> kafka
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> kafkaIP
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> kafkaParams
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> map
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> mapper
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> materializeClassTag
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> materializeTypeTag
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> moduleClass
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> mutable
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> net
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> option2Iterable
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> org
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> package
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> qual$1
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> rdd
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> reflect
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> runtime
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> runtimeMirror
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> saveToCassandra
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> sc
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> scala
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> serializer
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> session
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> set
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> setAppName
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> setMaster
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> spark
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> sql
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> ssc
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> start
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> staticClass
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> staticPackage
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> storage
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> streaming
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> toBinary
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> toBoolean
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> toDStreamFunctions
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> toLong
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> toNamedColumnRef
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> toOption
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> toString
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> toTypeConstructor
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> topics
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> tuple8ColumnMapper
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> tweets
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> twitter
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> typesafe
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> universe
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> util
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> withSessionDo
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> writer
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> x
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> x$1
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> x$10
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> x$2
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> x$3
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> x$4
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> x$5
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> x$6
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> x$7
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> x$8
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> x$9
+product stamps:
+10 items
+/home/ubuntu/projectFile/streamk/target/scala-2.10/classes/net/jacob/SimpleApp$$anonfun$1.class -> lastModified(1468373651000)
+/home/ubuntu/projectFile/streamk/target/scala-2.10/classes/net/jacob/SimpleApp$$anonfun$2.class -> lastModified(1468373651000)
+/home/ubuntu/projectFile/streamk/target/scala-2.10/classes/net/jacob/SimpleApp$$anonfun$main$1.class -> lastModified(1468373651000)
+/home/ubuntu/projectFile/streamk/target/scala-2.10/classes/net/jacob/SimpleApp$$typecreator1$1.class -> lastModified(1468373651000)
+/home/ubuntu/projectFile/streamk/target/scala-2.10/classes/net/jacob/SimpleApp$$typecreator2$1.class -> lastModified(1468373651000)
+/home/ubuntu/projectFile/streamk/target/scala-2.10/classes/net/jacob/SimpleApp$$typecreator3$1.class -> lastModified(1468373651000)
+/home/ubuntu/projectFile/streamk/target/scala-2.10/classes/net/jacob/SimpleApp$$typecreator4$1.class -> lastModified(1468373651000)
+/home/ubuntu/projectFile/streamk/target/scala-2.10/classes/net/jacob/SimpleApp$$typecreator5$1.class -> lastModified(1468373651000)
+/home/ubuntu/projectFile/streamk/target/scala-2.10/classes/net/jacob/SimpleApp$.class -> lastModified(1468373651000)
+/home/ubuntu/projectFile/streamk/target/scala-2.10/classes/net/jacob/SimpleApp.class -> lastModified(1468373651000)
+source stamps:
+2 items
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> hash(94318f5193d1737a87bd5f41d481fae5094a7bad)
+/home/ubuntu/projectFile/streamk/src/main/scala/net/jacob/avro/Tweet.java -> hash(9c81ede765f93d61b23420838099aa847e7dcc6a)
+binary stamps:
+13 items
+/home/ubuntu/.ivy2/cache/com.datastax.cassandra/cassandra-driver-core/bundles/cassandra-driver-core-3.0.0.jar -> lastModified(1453993738000)
+/home/ubuntu/.ivy2/cache/com.datastax.spark/spark-cassandra-connector_2.10/jars/spark-cassandra-connector_2.10-1.6.0.jar -> lastModified(1465464939000)
+/home/ubuntu/.ivy2/cache/com.twitter/bijection-avro_2.10/bundles/bijection-avro_2.10-0.9.2.jar -> lastModified(1455666106000)
+/home/ubuntu/.ivy2/cache/com.twitter/bijection-core_2.10/bundles/bijection-core_2.10-0.9.2.jar -> lastModified(1455666139000)
+/home/ubuntu/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar -> lastModified(1431099969000)
+/home/ubuntu/.ivy2/cache/org.apache.kafka/kafka_2.10/jars/kafka_2.10-0.8.2.1.jar -> lastModified(1424989934000)
+/home/ubuntu/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.6.1.jar -> lastModified(1456554749000)
+/home/ubuntu/.ivy2/cache/org.apache.spark/spark-streaming-kafka_2.10/jars/spark-streaming-kafka_2.10-1.6.1.jar -> lastModified(1456554819000)
+/home/ubuntu/.ivy2/cache/org.apache.spark/spark-streaming-twitter_2.10/jars/spark-streaming-twitter_2.10-1.6.1.jar -> lastModified(1456555051000)
+/home/ubuntu/.ivy2/cache/org.apache.spark/spark-streaming_2.10/jars/spark-streaming_2.10-1.6.1.jar -> lastModified(1456555217000)
+/home/ubuntu/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.10.5.jar -> lastModified(1425002084000)
+/home/ubuntu/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> lastModified(1395179187000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1468359981000)
+class names:
+13 items
+/home/ubuntu/.ivy2/cache/com.datastax.cassandra/cassandra-driver-core/bundles/cassandra-driver-core-3.0.0.jar -> com.datastax.driver.core.Session
+/home/ubuntu/.ivy2/cache/com.datastax.spark/spark-cassandra-connector_2.10/jars/spark-cassandra-connector_2.10-1.6.0.jar -> com.datastax.spark.connector.writer.RowWriterFactory
+/home/ubuntu/.ivy2/cache/com.twitter/bijection-avro_2.10/bundles/bijection-avro_2.10-0.9.2.jar -> com.twitter.bijection.avro.SpecificAvroCodecs
+/home/ubuntu/.ivy2/cache/com.twitter/bijection-core_2.10/bundles/bijection-core_2.10-0.9.2.jar -> com.twitter.bijection.Injection
+/home/ubuntu/.ivy2/cache/com.typesafe/config/bundles/config-1.3.0.jar -> com.typesafe.config.ConfigFactory
+/home/ubuntu/.ivy2/cache/org.apache.kafka/kafka_2.10/jars/kafka_2.10-0.8.2.1.jar -> kafka.serializer.DefaultDecoder$
+/home/ubuntu/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.6.1.jar -> org.apache.spark.serializer.KryoRegistrator
+/home/ubuntu/.ivy2/cache/org.apache.spark/spark-streaming-kafka_2.10/jars/spark-streaming-kafka_2.10-1.6.1.jar -> org.apache.spark.streaming.kafka.KafkaUtils$
+/home/ubuntu/.ivy2/cache/org.apache.spark/spark-streaming-twitter_2.10/jars/spark-streaming-twitter_2.10-1.6.1.jar -> org.apache.spark.streaming.twitter.TwitterUtils$
+/home/ubuntu/.ivy2/cache/org.apache.spark/spark-streaming_2.10/jars/spark-streaming_2.10-1.6.1.jar -> org.apache.spark.streaming.Seconds
+/home/ubuntu/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.10.5.jar -> scala.reflect.api.TypeCreator
+/home/ubuntu/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> scala.Option$
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+2 items
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDhHrEaAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJOcl6J0AAZub3RpZnlzcQB+AAx5cALQdAAEd2FpdHNxAH4ADNWnCLd0AA0kYXNJbnN0YW5jZU9mc3EAfgAMaVZaU3QABmVxdWFsc3NxAH4ADBNKCiB0AAxhc0luc3RhbmNlT2ZzcQB+AAzUUP6sdAAMc3luY2hyb25pemVkc3EAfgAMReNeynQADSRpc0luc3RhbmNlT2ZzcQB+AAxT59vbdAAEbWFpbnNxAH4ADBydnqF0AAlub3RpZnlBbGxzcQB+AAx9ib4UdAAMaXNJbnN0YW5jZU9mc3EAfgAM0orQo3QAAj09c3EAfgAM+bf7P3QABWNsb25lc3EAfgAMa6lNUXQACVNpbXBsZUFwcHNxAH4ADP90gbR0AAh0b1N0cmluZ3NxAH4ADLJQaZF0AAIhPXNxAH4ADCfCUW90AAhnZXRDbGFzc3NxAH4ADOojeAl0AAJuZXNxAH4ADK879B50AAJlcXNxAH4ADJTTbXx0AAIjI3NxAH4ADJC/dcF0AAhmaW5hbGl6ZXNxAH4ADLXJE2p0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABNuZXQuamFjb2IuU2ltcGxlQXBwdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AWnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWQBwc3EAfgBec3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AYnNxAH4AWQBwc3EAfgBedXEAfgA8AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBCcQB+AEt1cQB+AEwAAAAAc3EAfgBOAHEAfgAddXEAfgBRAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGF0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBhc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB/dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AbHhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AVHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4Ac1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AYXNxAH4AcnQABUFycmF5cQB+AHh1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AcnQABlN0cmluZ3NxAH4AdnNxAH4AeXVxAH4AfAAAAANzcQB+AH50AARqYXZhc3EAfgB+dAAEbGFuZ3EAfgCDc3EAfgBZAHBzcQB+AF51cQB+ADwAAAAAc3EAfgBZAHBzcQB+AF51cQB+AJcAAAACc3EAfgBydAAGT2JqZWN0cQB+AJtzcQB+AHJ0AANBbnlxAH4AeHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACW5ldC5qYWNvYnNxAH4ArnQAA25ldHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVeHjvKV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA6L2hvbWUvdWJ1bnR1L3Byb2plY3RGaWxlL3N0cmVhbWsvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFJQxj1GT0XN6h71fQdSB+uUJSnut
+/home/ubuntu/projectFile/streamk/src/main/scala/net/jacob/avro/Tweet.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC4IVHqAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVeHjvKV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+ABp4cHQAOi9ob21lL3VidW50dS9wcm9qZWN0RmlsZS9zdHJlYW1rL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABScge3nZfk9YbI0IIOAmaqEfn3Mag==
+external apis:
+0 items
+source infos:
+2 items
+/home/ubuntu/projectFile/streamk/src/main/scala/SimpleApp.scala -> 
+AAAAAAAAAAA=
+/home/ubuntu/projectFile/streamk/src/main/scala/net/jacob/avro/Tweet.java -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVeDinMp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9Vc2Vycy9qYWNvYmJhdW1iYWNoL0lkZWFQcm9qZWN0cy9TQTYvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVeHjvKV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9ob21lL3VidW50dS9wcm9qZWN0RmlsZS9zdHJlYW1rL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEv

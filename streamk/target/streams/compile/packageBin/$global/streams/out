@@ -1,0 +1,35 @@
+[0m[[0minfo[0m] [0mPackaging /home/ubuntu/projectFile/streamk/target/scala-2.10/simpleapp_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	net/jacob/avro[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/streamk/target/scala-2.10/classes/net/jacob/avro[0m
+[0m[[0mdebug[0m] [0m	net/jacob[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/streamk/target/scala-2.10/classes/net/jacob[0m
+[0m[[0mdebug[0m] [0m	net/jacob/SimpleApp.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/streamk/target/scala-2.10/classes/net/jacob/SimpleApp.class[0m
+[0m[[0mdebug[0m] [0m	net/jacob/avro/Tweet$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/streamk/target/scala-2.10/classes/net/jacob/avro/Tweet$1.class[0m
+[0m[[0mdebug[0m] [0m	net/jacob/avro/Tweet.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/streamk/target/scala-2.10/classes/net/jacob/avro/Tweet.class[0m
+[0m[[0mdebug[0m] [0m	net/jacob/SimpleApp$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/streamk/target/scala-2.10/classes/net/jacob/SimpleApp$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	net/jacob/SimpleApp$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/streamk/target/scala-2.10/classes/net/jacob/SimpleApp$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	net/jacob/SimpleApp$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/streamk/target/scala-2.10/classes/net/jacob/SimpleApp$.class[0m
+[0m[[0mdebug[0m] [0m	net[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/streamk/target/scala-2.10/classes/net[0m
+[0m[[0mdebug[0m] [0m	net/jacob/SimpleApp$$typecreator3$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/streamk/target/scala-2.10/classes/net/jacob/SimpleApp$$typecreator3$1.class[0m
+[0m[[0mdebug[0m] [0m	net/jacob/SimpleApp$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/streamk/target/scala-2.10/classes/net/jacob/SimpleApp$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	net/jacob/SimpleApp$$typecreator4$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/streamk/target/scala-2.10/classes/net/jacob/SimpleApp$$typecreator4$1.class[0m
+[0m[[0mdebug[0m] [0m	net/jacob/avro/Tweet$Builder.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/streamk/target/scala-2.10/classes/net/jacob/avro/Tweet$Builder.class[0m
+[0m[[0mdebug[0m] [0m	net/jacob/SimpleApp$$typecreator1$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/streamk/target/scala-2.10/classes/net/jacob/SimpleApp$$typecreator1$1.class[0m
+[0m[[0mdebug[0m] [0m	net/jacob/SimpleApp$$typecreator2$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/streamk/target/scala-2.10/classes/net/jacob/SimpleApp$$typecreator2$1.class[0m
+[0m[[0mdebug[0m] [0m	net/jacob/SimpleApp$$typecreator5$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/streamk/target/scala-2.10/classes/net/jacob/SimpleApp$$typecreator5$1.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

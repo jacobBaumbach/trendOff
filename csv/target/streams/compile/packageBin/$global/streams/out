@@ -1,0 +1,21 @@
+[0m[[0minfo[0m] [0mPackaging /home/ubuntu/projectFile/csv/target/scala-2.10/simpleapp_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	SimpleApp$$typecreator4$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/csv/target/scala-2.10/classes/SimpleApp$$typecreator4$1.class[0m
+[0m[[0mdebug[0m] [0m	SimpleApp$$typecreator3$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/csv/target/scala-2.10/classes/SimpleApp$$typecreator3$1.class[0m
+[0m[[0mdebug[0m] [0m	SimpleApp.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/csv/target/scala-2.10/classes/SimpleApp.class[0m
+[0m[[0mdebug[0m] [0m	SimpleApp$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/csv/target/scala-2.10/classes/SimpleApp$.class[0m
+[0m[[0mdebug[0m] [0m	SimpleApp$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/csv/target/scala-2.10/classes/SimpleApp$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	SimpleApp$$typecreator2$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/csv/target/scala-2.10/classes/SimpleApp$$typecreator2$1.class[0m
+[0m[[0mdebug[0m] [0m	SimpleApp$$typecreator1$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/csv/target/scala-2.10/classes/SimpleApp$$typecreator1$1.class[0m
+[0m[[0mdebug[0m] [0m	SimpleApp$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/csv/target/scala-2.10/classes/SimpleApp$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	SimpleApp$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/ubuntu/projectFile/csv/target/scala-2.10/classes/SimpleApp$$anonfun$main$1.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
