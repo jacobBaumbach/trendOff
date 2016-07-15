@@ -2,7 +2,7 @@
 
 ![](Image/de713pg.png)
 
-This notebook outlines what I did for my final in my Data Engineering Course at Galvanize University.  The project relies on code from Scala, Spark, a bit of CQL(executed by spark), and some Python(solely for plotting) and relies on the big data technologies of Kafka, Cassandra and Docker.  
+This repo contains the code used for my final in my Data Engineering Course at Galvanize University.  The project relies on code from Scala, Spark, a bit of CQL(executed by spark), and some Python(solely for plotting) and relies on the big data technologies of Kafka, Cassandra and Docker.  
 
 The goal of my project was to use different big data technologies to implement a lambda architecture where someone could compare the Twitter word usage of one user verses another.
 
